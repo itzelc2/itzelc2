@@ -6,6 +6,4 @@
 
 - 🔭 I’m currently working on setting up my github page. Still haven't decided what exactly to do with my page but I know I want to eventually showcase projects.
 
-- 🌱 I’m currently learning a lot of stuff: R, github pgs, more technical stuff to make me a more competitive job seeker
-
-- <a href="https://dispiritedraspberry.blogspot.com/">Personal blog</a> where I try to write down meaningful life happenings but not every post is insightful. Sometimes I just want to rant.
+- 🌱 Also working on improving my R skills.
